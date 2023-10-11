@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @quentintaranpino
+- 👀 I’m interested in build nostr apps
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking to collaborate on nostr
+- 📫 How to reach me, find me on nostr 💜
